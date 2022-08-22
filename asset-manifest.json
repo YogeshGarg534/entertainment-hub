@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/entertainment-hub/static/css/main.219c5141.chunk.css",
+    "main.js": "/entertainment-hub/static/js/main.11483abf.chunk.js",
+    "main.js.map": "/entertainment-hub/static/js/main.11483abf.chunk.js.map",
+    "runtime-main.js": "/entertainment-hub/static/js/runtime-main.378478c8.js",
+    "runtime-main.js.map": "/entertainment-hub/static/js/runtime-main.378478c8.js.map",
+    "static/css/2.98230c89.chunk.css": "/entertainment-hub/static/css/2.98230c89.chunk.css",
+    "static/js/2.de2e6a05.chunk.js": "/entertainment-hub/static/js/2.de2e6a05.chunk.js",
+    "static/js/2.de2e6a05.chunk.js.map": "/entertainment-hub/static/js/2.de2e6a05.chunk.js.map",
+    "index.html": "/entertainment-hub/index.html",
+    "static/css/2.98230c89.chunk.css.map": "/entertainment-hub/static/css/2.98230c89.chunk.css.map",
+    "static/css/main.219c5141.chunk.css.map": "/entertainment-hub/static/css/main.219c5141.chunk.css.map",
+    "static/js/2.de2e6a05.chunk.js.LICENSE.txt": "/entertainment-hub/static/js/2.de2e6a05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378478c8.js",
+    "static/css/2.98230c89.chunk.css",
+    "static/js/2.de2e6a05.chunk.js",
+    "static/css/main.219c5141.chunk.css",
+    "static/js/main.11483abf.chunk.js"
+  ]
+}
